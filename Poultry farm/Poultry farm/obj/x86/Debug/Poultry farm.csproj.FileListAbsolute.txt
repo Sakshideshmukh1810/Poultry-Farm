@@ -1,0 +1,39 @@
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\bin\Debug\Poultry farm.exe.config
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\bin\Debug\Database1.mdf
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\bin\Debug\Database1_log.ldf
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\bin\Debug\Poultry farm.exe
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\bin\Debug\Poultry farm.pdb
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Form1.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.mainform.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Properties.Resources.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry farm.csproj.GenerateResource.Cache
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry farm.exe
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry farm.pdb
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry farm.csprojResolveAssemblyReference.cache
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.custentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.companyentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.feedentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.medicinentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Birdcost.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.expensecategory.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.expensentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Fcr.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Purchaseentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Empentry.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.availablestock.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.deadstock.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Productbilling.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.Emppayment.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.CompanyReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.MedicineentryReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.expenseReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.feedReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.customerReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.deadReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.productReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.purchaseReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.wastesale.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.billingReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.EmployeeReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.wasteReport.resources
+C:\Users\Deshmukh\Desktop\Poultry Farm\Poultry farm\Poultry farm\obj\x86\Debug\Poultry_farm.EmppayReport.resources
